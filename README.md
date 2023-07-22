@@ -39,9 +39,9 @@ I make small smuck programs that you can view in my repositories, These small pr
 
 <p align="center">
 
-<img width="410" src="https://github-readme-stats.vercel.app/api?username=Saiki3&show_icons=true"/>
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=mUr1i&show_icons=true"/>
 
-<img width ="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiki3"/>
+<img width ="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mUr1i"/>
 </p>
 
 
