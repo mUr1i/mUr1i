@@ -27,7 +27,7 @@
 
 <br>
 
-Hello I'm Norm, A highschool student my mostly used languages are C/C++ and front-end stuffs like HTML & CSS.
+Hello I'm mUri, A highschool student my mostly used languages are C/C++ and front-end stuffs like HTML & CSS.
 Consider checking my repository and giving them a star to let me know you found it helpful.
 
 I make small smuck programs that you can view in my repositories, These small program's are predetermined if I'll continue on improving and finishing them nevertheless it's uncommon that I'll be finishing them. 
